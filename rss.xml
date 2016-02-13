@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[microregistrar]]></title>
+        <description><![CDATA[microregistrar]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 13 Feb 2016 18:02:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Glycopeptide]]></title>
+            <description><![CDATA[<article><h1>Glycopeptide</h1><p>Nature: Group 1 glycopeptide.</p></article>]]></description>
+            <link>undefinedglycopeptide/index.html</link>
+            <guid isPermaLink="false">3b39c653-ab00-42e9-a9b7-812bd8d5d6c2</guid>
+            <pubDate>Sat, 13 Feb 2016 18:02:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
