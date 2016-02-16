@@ -4,8 +4,15 @@
         <description><![CDATA[microregistrar]]></description>
         <link>https://thegrid.ai/microregistrar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 21:45:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 21:57:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/microregistrar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tigecycline]]></title>
+            <description><![CDATA[<article><h1>Tigecycline</h1><p>Nature:Glycylcycline, member of tetracycline family. Semisynthetic derivative of minocycline.</p></article>]]></description>
+            <link>https://thegrid.ai/microregistrar/tigecycline/index.html</link>
+            <guid isPermaLink="false">6a969292-510a-4a58-bd41-22fa69b84fe8</guid>
+            <pubDate>Tue, 16 Feb 2016 21:57:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Linezolid]]></title>
             <description><![CDATA[<article><h1>Linezolid</h1><p>Nature</p></article>]]></description>
