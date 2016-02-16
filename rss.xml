@@ -4,8 +4,15 @@
         <description><![CDATA[microregistrar]]></description>
         <link>https://thegrid.ai/microregistrar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 21:57:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 21:57:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/microregistrar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fosfomycin]]></title>
+            <description><![CDATA[<article><h1>Fosfomycin</h1><p>Nature: Phosphoenolpyruvate analogue, manufactured synthetically, but originally obtained from Streptomyces fradiae, Pseudomonas sp.</p></article>]]></description>
+            <link>https://thegrid.ai/microregistrar/fosfomycin/index.html</link>
+            <guid isPermaLink="false">7f95e7fc-1c8a-4172-902d-267b6845f061</guid>
+            <pubDate>Tue, 16 Feb 2016 21:57:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mupirocin]]></title>
             <description><![CDATA[<article><h1>Mupirocin</h1><p>Nature</p></article>]]></description>
