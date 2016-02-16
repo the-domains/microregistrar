@@ -1,7 +1,7 @@
 name: microregistrar
 favicon: null
-layout_spectrum: 0.2977536618709564
-typography_spectrum: 0.8662530111614615
+layout_spectrum: 0.86021
+typography_spectrum: 0.18429
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.9131227503530681
-  lightness: 0.6185092432424426
-  saturation: 0.10063580423593521
-  rhythmicContrast: 0.015769923571497202
+    - '#10483d'
+    - '#dbd2cb'
+    - '#a4a7a0'
+    - '#734106'
+    - '#607951'
+  brandStrength: 0.5
+  lightness: 0.9375
+  saturation: 0.125
+  rhythmicContrast: 1
 purpose: []
